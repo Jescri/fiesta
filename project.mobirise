@@ -1754,24 +1754,11 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "INSTAGRAM",
-                "active": false
-              },
-              {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery041.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery042.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gallery04-800x500.jpg",
                 "alt": "",
                 "title": "",
@@ -1832,12 +1819,25 @@
                 "active": false
               },
               {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery01.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "INSTAGRAM",
+                "active": false
+              },
+              {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/gallery041.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gallery04-800x500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poster-y-flyers-y-gorras-216x144.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poster-y-flyers-y-gorras-216x144-216x144.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
